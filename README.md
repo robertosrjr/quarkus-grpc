@@ -3,9 +3,10 @@
 This project uses Quarkusu with gRPC., the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+If you want to learn more about gRPC, please visit its website: https://grpc.io/.
 
 Ref.:
-- https://quarkus.io/guides/grpc-getting-started
+- [Quarkusu - GETTING STARTED WITH GRPC](https://quarkus.io/guides/grpc-getting-started)
 
 ## Running the application in dev mode
 
